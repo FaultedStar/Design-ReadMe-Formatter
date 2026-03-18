@@ -13,7 +13,7 @@ The sections here are about *how you designed something, not how to deploy it.
                                                                                                   
   ## Use it                                                                                       
   
-  → [your-github-pages-url-here]                                                                  
+  → [[GitHub Pages]](https://faultedstar.github.io/Design-ReadMe-Formatter/)                                                                  
                                                             
   No login, no account, no backend. Works entirely in the browser. Progress saves to localStorage.
                                                             
