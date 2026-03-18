@@ -21,7 +21,7 @@ The sections here are about *how you designed something, not how to deploy it.
                                                             
   Just open `index.html`. No build step.  
 
-##Inspired By 
+## Inspired by 
 
   [readme.so](https://readme.so/)  
   [Slack Edit](https://stackedit.io/)  
