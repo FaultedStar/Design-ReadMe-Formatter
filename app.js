@@ -82,10 +82,6 @@ Add images here: \`![description](path-or-url)\``,
 
 Talk about your colour choices. What palette did you land on? Why those colours and not others?
 
-### Typography
-
-What typefaces did you choose? What do they communicate?
-
 ### Layout & structure
 
 How did you organise the space? What hierarchy decisions did you make?
@@ -226,6 +222,112 @@ How does this project connect to your broader interests as a designer?
 ---
 
 > **Before you hand in:** read this README one more time. Does it show your thinking, or is it just a list of what you did? The best READMEs make the reader feel like they were in the room with you while you designed it.`,
+  },
+  {
+    id: 'familiar-concept',
+    label: '👾 The Familiar — Concept',
+    icon: '👾',
+    heading: '👾 The Familiar — Concept',
+    template: `Introduce your familiar. What is it?
+
+### Name & identity
+
+Give your familiar a name. What kind of entity is it — creature, object, spirit, something else? What does it look like?
+
+### The metaphor
+
+What does your familiar represent or evoke? What idea, feeling, or topic is it an expression of?
+
+### Personality
+
+How does it behave? What are its characteristic traits? Is it anxious, curious, demanding, shy? What makes it feel like a distinct entity and not just a program?
+
+### Why this concept
+
+What drew you to this particular familiar? What does it mean to you?`,
+  },
+  {
+    id: 'needs-wants',
+    label: '👾 Needs & Wants',
+    icon: '👾',
+    heading: '👾 Needs & Wants',
+    template: `Your familiar must "want" or "need" something. Describe the mechanic.
+
+### What it wants
+
+What is the core need or want? Be specific. Is it attention, interaction, a particular input, time?
+
+### What happens when the need goes unmet
+
+How does your familiar degrade, suffer, or change when the condition isn't met? What is the visible or behavioural consequence?
+
+### What satisfies it
+
+What interaction or condition fulfils the want? How does the familiar respond when it's satisfied?
+
+### The attention economy angle
+
+Your familiar is, in some way, part of the attention economy — it asks something of the viewer. What does it ask for, and why did you design it that way? Is this a critique, a reflection, something neutral?`,
+  },
+  {
+    id: 'states-behaviours',
+    label: '👾 States & Behaviours',
+    icon: '👾',
+    heading: '👾 States & Behaviours',
+    template: `Describe the states your familiar can be in and how it moves between them.
+
+### States
+
+List each state and what it looks/behaves like:
+
+| State | Appearance / behaviour |
+|-------|----------------------|
+| e.g. Idle | e.g. slow pulse, neutral colour |
+| e.g. Hungry | e.g. faster movement, colour shifts red |
+| e.g. Satisfied | e.g. brief celebration animation, slows down |
+
+### Transitions
+
+What triggers a change from one state to another? Is it time-based, input-based, threshold-based?
+
+### Autonomous behaviour
+
+What does your familiar do when no one is interacting with it? How does it change over time on its own?
+
+### Persistence across visits
+
+What does your familiar remember between visits using localStorage? How does returning after a long absence feel different from a quick revisit?`,
+  },
+  {
+    id: 'inputs-responses',
+    label: '👾 Inputs & Responses',
+    icon: '👾',
+    heading: '👾 Inputs & Responses',
+    template: `Your familiar must respond to at least two different types of input. Document them here.
+
+### Input 1 — type and why
+
+**Type:** e.g. mouse interaction / time of day / page focus
+
+**Why this input:** Why did you choose it? What does it mean in the context of your familiar's concept?
+
+**How the familiar responds:** What changes — visually, behaviourally, in state?
+
+### Input 2 — type and why
+
+**Type:** e.g. keyboard / visit history / weather API
+
+**Why this input:** Why did you choose it? What does it mean in the context of your familiar's concept?
+
+**How the familiar responds:** What changes — visually, behaviourally, in state?
+
+### Any additional inputs
+
+Add more blocks here if you used more than two.
+
+### Inputs you considered but didn't use
+
+Did you explore any input types that didn't end up working or fitting?`,
   },
   {
     id: 'custom',
